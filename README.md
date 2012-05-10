@@ -14,9 +14,15 @@ implementação:
   * criar monte de descarte em que podemos ver qualquer carta sem remove-lá
 
 É esperado com resultado final a criação de: 
-*Uma biblioteca para manipulação básica de cartas de um baralho (mais definições a seguir) com sua documentação no código, 
-*uma aplicação simples que faça uso dessa biblioteca,  
-*arquivos de projeto que serão usados para a construção da biblioteca e do aplicativo,
-*um arquivo leia-me (README) que apresenta uma visão geral do projeto e como deve ser feita a construção  do mesmo.
-*um arquivo AUTHORS com o nome e contato dos autores (2 no máximo)
-*um arquivo COPYING com a licença de uso do software  
+ 
+ *Uma biblioteca para manipulação básica de cartas de um baralho (mais definições a seguir) com sua documentação no código, 
+ 
+ *uma aplicação simples que faça uso dessa biblioteca,  
+ 
+ *arquivos de projeto que serão usados para a construção da biblioteca e do aplicativo,
+ 
+ *um arquivo leia-me (README) que apresenta uma visão geral do projeto e como deve ser feita a construção  do mesmo.
+ 
+ *um arquivo AUTHORS com o nome e contato dos autores (2 no máximo)
+ 
+ *um arquivo COPYING com a licença de uso do software  
